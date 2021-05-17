@@ -9,7 +9,7 @@ setup(
     author='Alejandro Gonzalez',
     author_email='alejandro@gonzaleze.com',
     url='https://github.com/gonzalejandro/python-codegen',
-    download_url='',
+    download_url='https://github.com/gonzalejandro/python-codegen/archive/refs/tags/0.1.tar.gz',
     keywords=['Python', 'Code', 'Generator'],
     install_requires=[],
     classifiers=[
